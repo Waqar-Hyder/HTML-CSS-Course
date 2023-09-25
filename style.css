@@ -9,10 +9,10 @@
 .random h1{
   color: blueviolet;
 }
-/* *{
-  font-size: 20px;
+ *{
+  /*font-size: 62.5%;*/
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-} */
+} 
 .myheading + ul{ 
   list-style: disc;
 }
@@ -24,4 +24,25 @@
 }*/
 .nav-link li:nth-child(2){
   color: red;
+}
+button{
+  background:olivedrab;
+  color:white;
+}/*
+div{
+  background-color: darkcyan;
+  color: #fff;
+  width: 400px;
+  margin-top: 20px;
+}*/
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.sec-2 p{
+  font-size: 1.8em;
+}
+.sec-2 div{
+  font-size: 1.8em;
 }
